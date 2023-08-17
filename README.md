@@ -1,4 +1,6 @@
-# The Complete 2023 Web Development Bootcamp by Dr Angela Yu from App  Brewery
+# The Complete 2023 Web Development Bootcamp 
+
+### The Complete 2023 Web Development Bootcamp by Dr Angela Yu from App  Brewery
 
 What's packed inside?
 
