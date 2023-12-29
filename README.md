@@ -10,3 +10,9 @@ What's packed inside?
 - Master frontend development with React.
 
 [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+## Resources:
+
+- (https://internetingishard.com/)
+- (https://colorhunt.co/)
+- (https://fonts.google.com/)
